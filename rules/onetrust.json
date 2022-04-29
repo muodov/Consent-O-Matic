@@ -536,7 +536,7 @@
                 "action": {
                     "type": "click",
                     "target": {
-                        "selector": ".save-preference-btn-handler"
+                        "selector": ".save-preference-btn-shandler"
                     }
                 },
                 "name": "SAVE_CONSENT"
