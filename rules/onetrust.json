@@ -23,7 +23,7 @@
                 "action": {
                     "type": "click",
                     "target": {
-                        "selector": "#onetrust-pc-btn-handler, .ot-sdk-show-settings"
+                        "selector": ".ot-sdk-show-settings"
                     }
                 },
                 "name": "OPEN_OPTIONS"
