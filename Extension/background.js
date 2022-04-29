@@ -100,7 +100,7 @@ function fetchRules(forceUpdate) {
 
             if(oldDefaultListIndex !== -1) {
                 console.log("Cleaning old rule list, and replacing with new reference based list...");
-                ruleLists[oldDefaultListIndex] = "https://raw.githubusercontent.com/cavi-au/Consent-O-Matic/master/rules-list.json"
+                ruleLists[oldDefaultListIndex] = "https://raw.githubusercontent.com/muodov/Consent-O-Matic/test/rules-list.json"
                 GDPRConfig.setRuleLists(ruleLists);
             }
 
